@@ -11,7 +11,7 @@ This 15mins talk was prepared for:
 ## Viewing
 
 The slides can be viewed on:
-https://praesongprasit.github.io/talk_a11y-designer-intro/
+https://praesongprasit.github.io/talk_a11y-intro-design-students/
 
 To view slide notes, open the slide and press the `s` key.
 
