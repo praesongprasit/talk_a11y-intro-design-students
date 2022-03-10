@@ -14,9 +14,6 @@
 // Include theme-specific fonts
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
 
-// Theme template ------------------------------
-@import "../template/theme";
-
 // ---------------------------------------------
 
 // Override theme settings (see ../template/settings.scss)
@@ -40,6 +37,9 @@ $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
+
+// Theme template ------------------------------
+@import "../template/theme";
 
 section.has-light-background {
 	&, h1, h2, h3, h4, h5, h6 {

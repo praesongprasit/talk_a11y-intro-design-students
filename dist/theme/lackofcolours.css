@@ -8,34 +8,34 @@
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #2b2b2b;
-  --r-main-font: Lato, sans-serif;
-  --r-main-font-size: 40px;
-  --r-main-color: #eee;
+  --r-background-color: #181E2B;
+  --r-main-font: Source Sans Pro, Helvetica, sans-serif;
+  --r-main-font-size: 42px;
+  --r-main-color: #fff;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: League Gothic, Impact, sans-serif;
-  --r-heading-color: #eee;
+  --r-heading-font: Source Sans Pro, Helvetica, sans-serif;
+  --r-heading-color: #8DFCE4;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
   --r-heading-text-transform: uppercase;
   --r-heading-text-shadow: none;
-  --r-heading-font-weight: normal;
+  --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 3.77em;
-  --r-heading2-size: 2.11em;
-  --r-heading3-size: 1.55em;
+  --r-heading1-size: 2.5em;
+  --r-heading2-size: 1.6em;
+  --r-heading3-size: 1.3em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #13DAEC;
-  --r-link-color-dark: #0d99a5;
-  --r-link-color-hover: #71e9f4;
-  --r-selection-background-color: #FF5E99;
+  --r-link-color: #8DFCE4;
+  --r-link-color-dark: #42fad2;
+  --r-link-color-hover: #d8fef6;
+  --r-selection-background-color: white;
   --r-selection-color: #fff;
 }
 
 .reveal-viewport {
-  background: #2b2b2b;
+  background: #181E2B;
   background-color: var(--r-background-color);
 }
 
