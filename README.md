@@ -1,12 +1,17 @@
-# Talk title
+# Accessibility: An introduction
 
-This [x]mins talk was prepared for:
-- [Event](https://) - 19th June 2019
+What is accessibility? 
+Who is it for?
+Why is it important for both you and your audience?
+What can you do to design accessible products?
+
+This 15mins talk was prepared for:
+- Massey web design class - 10th March 2022
 
 ## Viewing
 
 The slides can be viewed on:
-
+https://praesongprasit.github.io/talk_a11y-designer-intro/
 
 To view slide notes, open the slide and press the `s` key.
 
