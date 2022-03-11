@@ -6,7 +6,7 @@ Why is it important for both you and your audience?
 What can you do to design accessible products?
 
 This 15mins talk was prepared for:
-- Massey web design class - 10th March 2022
+- Level 300 web course at Massey - 11th March 2022
 
 ## Viewing
 
