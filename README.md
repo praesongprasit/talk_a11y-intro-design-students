@@ -1,11 +1,10 @@
 # Accessibility: An introduction
 
-What is accessibility? 
-Who is it for?
-Why is it important for both you and your audience?
-What can you do to design accessible products?
+What is accessibility, who it's for, why it's important for both you and your audience, and what can you do to design accessible products?
 
-This 15mins talk was prepared for:
+This is a lightning introduction for design students.
+
+This 15 mins talk was prepared for:
 - Level 300 web course at Massey - 11th March 2022
 
 ## Viewing
