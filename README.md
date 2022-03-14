@@ -14,6 +14,8 @@ https://praesongprasit.github.io/talk_a11y-intro-design-students/
 
 To view slide notes, open the slide and press the `s` key.
 
+[Talk recording](https://vimeo.com/687774942/3f9df844a0)
+
 ## License
 
 Content of this presentation is GNU GPL3 licensed.
