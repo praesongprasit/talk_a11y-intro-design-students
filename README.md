@@ -9,12 +9,8 @@ This 15 mins talk was prepared for:
 
 ## Viewing
 
-The slides can be viewed on:
-https://praesongprasit.github.io/talk_a11y-intro-design-students/
-
-To view slide notes, open the slide and press the `s` key.
-
-[Talk recording](https://vimeo.com/687774942/3f9df844a0)
+* [Talk recording](https://vimeo.com/687774942/3f9df844a0)
+* [Slides](https://praesongprasit.github.io/talk_a11y-intro-design-students/). To view slide notes, open the slide and press the `s` key.
 
 ## License
 
